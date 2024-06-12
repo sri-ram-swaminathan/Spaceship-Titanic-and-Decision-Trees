@@ -2,7 +2,7 @@
 
 This project is a two-part exploration of the Spaceship Titanic dataset, a fictional dataset inspired by the historical Titanic disaster, available on [Kaggle](https://www.kaggle.com/c/spaceship-titanic).
 
-The documentation is a part of the jupyter notebook. A summary of the project is provided here. 
+The documentation is a part of the jupyter notebook. A summary of the project is provided here. My blog post, with a concise & non-technical explanation can be found [here](https://medium.com/@sriramthinksaboutthings/spaceship-titanic-decision-trees-518c5bb6b679).
 
 ---
 
